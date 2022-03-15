@@ -7,7 +7,8 @@
 
   .Getting started with GIT(simplilearn)[GIT CERTIFICATE.pdf](https://github.com/DINESHKUMARJEBASTINTR/M1_March_2022/files/8253691/GIT.CERTIFICATE.pdf)
 
-  .First day on github(github) ![WhatsApp Image 2022-03-15 at 7 02 31 PM](https://user-images.githubusercontent.com/101498911/158388884-447fc908-93d5-4c90-b453-26fd293a86ff.jpeg)
+  .First day on github(github) ![WhatsApp Image 2022-03-15 at 7 07 00 PM](https://user-images.githubusercontent.com/101498911/158389785-9a850989-1371-47bd-8af3-9a0e54c86e1b.jpeg)
+
 
 
   
