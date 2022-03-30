@@ -1,13 +1,4 @@
-/**
- * @file main.c
- * @author your name (you@domain.com)
- * @brief 
- * @version 0.1
- * @date 2021-04-09
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #include <stdio.h>
 #include <string.h>
 #include "src/binary.h"
@@ -16,18 +7,9 @@
 #include "src/bcd.h"
 #include "src/xs.h"
 #include "src/gray.h"
-
-/**
- * @brief Main function
- * 
- * @return int 
- */
 int main()
 {
-    /**
-     * @brief Binary conversion code
-     * 
-     */
+    
     int temp;
     printf("Enter the input number which has to be converted: \n");
     scanf("%d", &temp);
@@ -43,11 +25,6 @@ int main()
     {
         printf("%d", *(res_bin.binary_op + i));
     }
-
-    /**
-     * @brief Octal conversion code
-     * 
-     */
     Input_oct oct;
     Conversion_oct res_oct;
     oct.num = temp;
@@ -60,10 +37,7 @@ int main()
         printf("%d", *(res_oct.octal_op + i));
     }
     
-    /**
-     * @brief Hexadecimal conversion code
-     * 
-     */
+    
     Input_hex hexa;
     Conversion_hex res_hexa;
     hexa.num = temp;
@@ -91,10 +65,7 @@ int main()
         printf("%d", *(res_bcd.bcd_op + i));
     }
 
-    /**
-     * @brief XS-3 conversion code
-     * 
-     */
+
     Input_xs xs;
     Conversion_xs res_xs;
     xs.num = temp;
@@ -106,10 +77,9 @@ int main()
         printf("%d", *(res_xs.xs_op + i));
     }
 
-    /**
+    
      * @brief Gray conversion code
-     * 
-     */
+     
     Input_gray gray;
     Conversion_gray res_gray;
     gray.num = temp;
