@@ -1,19 +1,7 @@
-/**
- * @file octal.h
- * @author your name (you@domain.com)
- * @brief Header file for octal (base-8) method
- * @version 0.1
- * @date 2021-04-09
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #include <stdio.h>
 #include <stdlib.h>
-/**
- * @brief Structures for storing the input & output stream
- * 
- */
+
 typedef struct Conversion_oct
 {
     int octal_op[50];
