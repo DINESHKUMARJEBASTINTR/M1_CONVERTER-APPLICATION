@@ -50,10 +50,7 @@ int main()
         printf("%c", *(res_hexa.hexadecimal_op + i));
     }
 
-    /**
-     * @brief BCD conversion code
-     * 
-     */
+    
     Input_bcd bcd;
     Conversion_bcd res_bcd;
     bcd.num = temp;
@@ -77,8 +74,6 @@ int main()
         printf("%d", *(res_xs.xs_op + i));
     }
 
-    
-     * @brief Gray conversion code
      
     Input_gray gray;
     Conversion_gray res_gray;
