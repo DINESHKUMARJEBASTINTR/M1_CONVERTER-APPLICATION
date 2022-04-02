@@ -14,12 +14,7 @@ typedef struct Input_oct
 } Input_oct;
 Conversion_oct transformOct(Input_oct a);
 
-/**
- * @brief Function to convert a number from decimal to octal system
- * 
- * @param a 
- * @return Conversion_oct 
- */
+
 Conversion_oct transformOct(Input_oct a)
 {
     int num = a.num, b = a.base;
