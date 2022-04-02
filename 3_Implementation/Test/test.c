@@ -1,13 +1,4 @@
-/**
- * @file test_project.c
- * @author your name (you@domain.com)
- * @brief Unity testing for Number System Converter
- * @version 0.1
- * @date 2021-04-10
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #include <string.h>
 #include <stdio.h>
 #include "../src/binary.h"
@@ -17,15 +8,12 @@
 #include "../src/xs.h"
 #include "../src/gray.h"
 #include "../unity/unity.h"
-/**
- * @brief Set the Up object
- * 
- */
+
 void setUp()
 {
 }
 /**
- * @brief Required by the unity test framework 
+ * 
  * 
  */
 void tearDown()
