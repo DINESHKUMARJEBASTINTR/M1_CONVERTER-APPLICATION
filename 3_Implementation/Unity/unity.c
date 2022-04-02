@@ -1,8 +1,4 @@
-/* =========================================================================
-    Unity Project - A Test Framework for C
-    Copyright (c) 2007-21 Mike Karlesky, Mark VanderVoord, Greg Williams
-    [Released under MIT License. Please refer to license.txt for details]
-============================================================================ */
+
 
 #include "unity.h"
 #include <stddef.h>
@@ -13,7 +9,7 @@
 #define PROGMEM
 #endif
 
-/* If omitted from header, declare overrideable prototypes here so they're ready for use */
+
 #ifdef UNITY_OMIT_OUTPUT_CHAR_HEADER_DECLARATION
 void UNITY_OUTPUT_CHAR(int);
 #endif
