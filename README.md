@@ -1,11 +1,11 @@
 
-# Project title-Naming convention 
+# Project title-CONVERTER-APPLICATION
 ![code_Quality_score](https://api.codiga.io/project/32441/score/svg)
 ![code_grade](https://api.codiga.io/project/32441/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f3cebf912c834b12a8368d578948851a)](https://www.codacy.com/gh/3114-HM/Stepin_Conversions/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=3114-HM/Stepin_Conversions&amp;utm_campaign=Badge_Grade)
-[![CI](https://github.com/3114-HM/Stepin_Conversions/actions/workflows/main.yml/badge.svg)](https://github.com/3114-HM/Stepin_Conversions/actions/workflows/main.yml)
-<a href="https://frontend.code-inspector.com/public/user/github/3114-HM">
- <img src="https://code-inspector.com/public/badge/user/github/3114-HM?style=light" alt="code inspector badge" />
+[![CI](https://github.com/DINESHKUMARJEBASTINTR/M1_CONVERTER-APPLICATION/actions/workflows/main.yml/badge.svg)](https://github.com/DINESHKUMARJEBASTINTR/M1_CONVERTER-APPLICATION/actions/workflows/main.yml)
+<a href="https://frontend.code-inspector.com/public/user/github/DINESHKUMARJEBASTINTR">
+ <img src="https://code-inspector.com/public/badge/user/github/DINESHKUMARJEBASTINTR?style=light" alt="code inspector badge" />
 </a>
 ## Folder Structure
 Folder             | Description
