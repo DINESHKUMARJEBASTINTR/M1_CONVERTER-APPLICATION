@@ -19,3 +19,24 @@ In digital electronics number system is used to represent the information.Any di
 ##Swot Analysis
 
 ![WhatsApp Image 2022-04-02 at 9 41 13 AM](https://user-images.githubusercontent.com/101498911/161365913-3471df6f-b03f-4e71-aca1-6179046f2334.jpeg)
+
+##4W's and 1H
+
+Who
+Information technology students
+What
+A person can convert data to a desired format with the help of this project in timely manner.
+
+When
+At the initial stage of digital circuit designing operation.
+
+
+Where
+This project can be used by students as well as circuit developers where such calculations are needed.
+
+How
+This project can perform various calculations at the same and make user's task smooth and effortless.
+
+##Detail Requirements
+
+![WhatsApp Image 2022-04-02 at 10 36 10 PM](https://user-images.githubusercontent.com/101498911/161393609-018b5b78-1ee3-4fe8-a635-265a510f56c1.jpeg)
